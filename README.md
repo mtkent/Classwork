@@ -1,2 +1,2 @@
 # Classwork
-Some examples of previous homework assignments I have done
+Examples of previous completed homework assignments.
