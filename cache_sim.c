@@ -2,6 +2,7 @@
 //s1567270
 //CS Assignment 2
 //11/26/15
+//A simulator for different types caches.
 
 #include <stdio.h>
 #include <stdlib.h>
